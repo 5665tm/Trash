@@ -1,0 +1,15 @@
+D:\Desktop\3-Winter Molly\3-Winter Molly\obj\Debug\3-Winter Molly.csprojResolveAssemblyReference.cache
+D:\Desktop\3-Winter Molly\3-Winter Molly\bin\Debug\3-Winter Molly.exe.config
+D:\Desktop\3-Winter Molly\3-Winter Molly\bin\Debug\3-Winter Molly.exe
+D:\Desktop\3-Winter Molly\3-Winter Molly\bin\Debug\3-Winter Molly.pdb
+D:\Desktop\3-Winter Molly\3-Winter Molly\obj\Debug\3-Winter Molly.exe
+D:\Desktop\3-Winter Molly\3-Winter Molly\obj\Debug\3-Winter Molly.pdb
+D:\Desktop\3-winter-molly\3-Winter Molly\bin\Debug\3-Winter Molly.exe.config
+D:\Desktop\3-winter-molly\3-Winter Molly\obj\Debug\3-Winter Molly.exe
+D:\Desktop\3-winter-molly\3-Winter Molly\obj\Debug\3-Winter Molly.pdb
+D:\Desktop\3-winter-molly\3-Winter Molly\bin\Debug\3-Winter Molly.exe
+D:\Desktop\3-winter-molly\3-Winter Molly\bin\Debug\3-Winter Molly.pdb
+D:\Desktop\3-winter-molly\3-Winter Molly\obj\Debug\3-Winter Molly.csprojResolveAssemblyReference.cache
+D:\Desktop\my\3-Winter Molly\bin\Debug\3-Winter Molly.exe.config
+D:\Desktop\my\3-Winter Molly\obj\Debug\3-Winter Molly.exe
+D:\Desktop\my\3-Winter Molly\obj\Debug\3-Winter Molly.pdb

@@ -1,0 +1,15 @@
+D:\Desktop\TransportTask\bin\Debug\TransportTask.exe
+D:\Desktop\TransportTask\bin\Debug\TransportTask.pdb
+D:\Desktop\TransportTask\obj\Debug\TransportTask.csprojResolveAssemblyReference.cache
+D:\Desktop\TransportTask\obj\Debug\MainWindow.baml
+D:\Desktop\TransportTask\obj\Debug\MainWindow.g.cs
+D:\Desktop\TransportTask\obj\Debug\App.g.cs
+D:\Desktop\TransportTask\obj\Debug\TransportTask_MarkupCompile.cache
+D:\Desktop\TransportTask\obj\Debug\TransportTask.g.resources
+D:\Desktop\TransportTask\obj\Debug\TransportTask.Properties.Resources.resources
+D:\Desktop\TransportTask\obj\Debug\TransportTask.csproj.GenerateResource.Cache
+D:\Desktop\TransportTask\obj\Debug\TransportTask.exe
+D:\Desktop\TransportTask\obj\Debug\TransportTask.pdb
+D:\Desktop\TransportTask\bin\Debug\ExcelLib.dll
+D:\Desktop\TransportTask\bin\Debug\ExcelLib.pdb
+D:\Desktop\TransportTask\bin\Debug\ExcelLib.xml

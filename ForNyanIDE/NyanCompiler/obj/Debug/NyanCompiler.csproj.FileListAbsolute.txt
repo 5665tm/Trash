@@ -1,0 +1,5 @@
+D:\Desktop\ForNyanIDE\NyanCompiler\bin\Debug\NyanCompiler.dll
+D:\Desktop\ForNyanIDE\NyanCompiler\bin\Debug\NyanCompiler.pdb
+D:\Desktop\ForNyanIDE\NyanCompiler\obj\Debug\NyanCompiler.csprojResolveAssemblyReference.cache
+D:\Desktop\ForNyanIDE\NyanCompiler\obj\Debug\NyanCompiler.dll
+D:\Desktop\ForNyanIDE\NyanCompiler\obj\Debug\NyanCompiler.pdb

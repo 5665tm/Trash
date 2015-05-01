@@ -1,0 +1,103 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ExcelLib</name>
+    </assembly>
+    <members>
+        <member name="F:ExcelLib.ExcelTable.Columns">
+            <summary>
+                Список колонок таблицы
+            </summary>
+        </member>
+        <member name="F:ExcelLib.ExcelTable.FilePath">
+            <summary>
+                Адрес файла Excel с которым работает библиотека
+            </summary>
+        </member>
+        <member name="F:ExcelLib.ExcelTable.Range">
+            <summary>
+                Диапазон ячеек в формате "A1:B2"
+            </summary>
+        </member>
+        <member name="M:ExcelLib.ExcelTable.#ctor(System.String,System.String)">
+            <summary>
+            Конструирует новый объект для работы с таблицой Excel
+            </summary>
+            <param name="filePath">Имя файла для обработки</param>
+            <param name="range">Диапазон ячеек в формате "A1:B2"</param>
+        </member>
+        <member name="M:ExcelLib.ExcelTable.Push">
+            <summary>
+                Отправляет все изменения в файл Excel
+            </summary>
+        </member>
+        <member name="M:ExcelLib.ExcelTable.Add(System.Object[])">
+            <summary>
+            Добавляет новую запись в таблицу
+            </summary>
+            <param name="args">Список аргументов</param>
+        </member>
+        <member name="T:ExcelLib.ExcelTable.UniversalObject">
+            <summary>
+                Представляет собой универсальный объект который может хранить любое число любых полей
+            </summary>
+        </member>
+        <member name="F:ExcelLib.ExcelTable.UniversalObject.Properties">
+            <summary>
+                Список полей объекта
+            </summary>
+        </member>
+        <member name="F:ExcelLib.ExcelTable.UniversalObject._pinToExcelTable">
+            <summary>
+                Таблица к которой принадлежит запись
+            </summary>
+        </member>
+        <member name="T:ExcelLib.ExcelTable.ColumnType">
+            <summary>
+                Представляет собой колонку в таблице
+            </summary>
+        </member>
+        <member name="F:ExcelLib.ExcelTable.ColumnType.Name">
+            <summary>
+                Имя колонки
+            </summary>
+        </member>
+        <member name="F:ExcelLib.ExcelTable.ColumnType.TypeField">
+            <summary>
+                Тип данных хранящийся в колонке
+            </summary>
+        </member>
+        <member name="M:ExcelLib.ExcelTable.ColumnType.#ctor(System.String,System.Type)">
+            <summary>
+                Создает новую колонку в таблице
+            </summary>
+            <param name="name">Имя колонки</param>
+            <param name="type">Тип данных хранящийся в колонке</param>
+        </member>
+        <member name="M:ExcelLib.ExcelTable.Run(System.String,System.String)">
+            <summary>
+                Запускает процесс сериализации
+            </summary>
+            <param name="file">Адрес файла</param>
+            <param name="range">Диапазон клеток</param>
+            <returns>Возвращаем отпарсенную таблицу</returns>
+        </member>
+        <member name="M:ExcelLib.ExcelTable.StartExcel">
+            <summary>
+                Стартует Excel и заносит в HashTable Id процесса для его дальнейшего убийства
+            </summary>
+        </member>
+        <member name="M:ExcelLib.ExcelTable.KillExcel">
+            <summary>
+                Уничтожает процесс екселя с котором мы работали
+            </summary>
+        </member>
+        <member name="M:ExcelLib.ExcelTable.LetterToNumber(System.Char[])">
+            <summary>
+                Конвертирует буквенный индекс в числовой. Пример AB => 28
+            </summary>
+            <param name="charLetter">Буквенный индекс</param>
+            <returns>Числовой индекс</returns>
+        </member>
+    </members>
+</doc>

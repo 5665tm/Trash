@@ -1,0 +1,9 @@
+D:\Documents\Visual Studio 2012\Projects\MyMoney\MyMoney\bin\Debug\MyMoney.exe.config
+D:\Documents\Visual Studio 2012\Projects\MyMoney\MyMoney\bin\Debug\MyMoney.exe
+D:\Documents\Visual Studio 2012\Projects\MyMoney\MyMoney\bin\Debug\MyMoney.pdb
+D:\Documents\Visual Studio 2012\Projects\MyMoney\MyMoney\obj\Debug\MyMoney.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2012\Projects\MyMoney\MyMoney\obj\Debug\MyMoney.exe
+D:\Documents\Visual Studio 2012\Projects\MyMoney\MyMoney\obj\Debug\MyMoney.pdb
+D:\Desktop\3-Winter Molly\MyMoney\bin\Debug\MyMoney.exe.config
+D:\Desktop\3-Winter Molly\MyMoney\obj\Debug\MyMoney.exe
+D:\Desktop\3-Winter Molly\MyMoney\obj\Debug\MyMoney.pdb

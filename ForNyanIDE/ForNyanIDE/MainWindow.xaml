@@ -1,0 +1,11 @@
+﻿<controls:MetroWindow x:Class="ForNyanIDE.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+		xmlns:controls="clr-namespace:MahApps.Metro.Controls;assembly=MahApps.Metro"
+        Title="FOR NYAN IDE" Height="510" Width="716">
+	<Grid>
+		<Button Content="Compilnyande" Margin="0,10,10,0" Click="Button_Click" HorizontalAlignment="Right" Width="106" Height="59" VerticalAlignment="Top"/>
+		<RichTextBox x:Name="InputSource" Margin="10,10,121,10" FontFamily="Consolas" FontSize="22" VerticalScrollBarVisibility="Visible" HorizontalScrollBarVisibility="Auto"/>
+
+	</Grid>
+</controls:MetroWindow>

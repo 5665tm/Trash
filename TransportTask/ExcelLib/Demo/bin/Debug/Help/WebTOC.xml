@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpTOC>
+
+  <HelpTOCNode Id="24888db5-f736-4c51-bcf0-83ddb5b5e2c2" Title="ExcelLib" Url="html/0740458b-3f4e-cd22-3bda-e62156a00898.htm">
+    <HelpTOCNode Id="d4ee54f5-5d5a-46ec-acd2-30f450b3bccd" Title="ExcelTable Class" Url="html/666f83f9-7238-cc25-f019-5b11250d6379.htm">
+      <HelpTOCNode Title="ExcelTable Constructor " Url="html/6dcc4a2a-c6e9-66e5-e09f-a5b074b9ffec.htm" />
+      <HelpTOCNode Id="b7305448-03a1-4bde-a799-d612bc4c712b" Title="ExcelTable Fields" Url="html/35dddd1e-1074-13cb-5b67-06f4d454d9db.htm">
+        <HelpTOCNode Title="Columns Field" Url="html/44ae3675-fbb2-71b3-6e8f-f74654a95dc4.htm" />
+        <HelpTOCNode Title="FilePath Field" Url="html/2255722c-d81c-033d-c252-0d4dc4735351.htm" />
+        <HelpTOCNode Title="Range Field" Url="html/c3eb4996-62ad-309f-13b8-db10a5d3307c.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="dd5ce666-3bf4-4667-9194-9e20844ff852" Title="ExcelTable Methods" Url="html/3ac02101-2152-49df-a783-b75e5a7d9e0f.htm">
+        <HelpTOCNode Id="c8f07365-23c7-4466-82bc-4e1a28e14a69" Title="Add Method " Url="html/d3c762a7-1799-9940-559e-fb597f487e60.htm">
+          <HelpTOCNode Title="Add Method (Object[])" Url="html/ebff2738-36c9-1231-b856-607d0f56c3ce.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="Push Method " Url="html/f87df8fb-d633-f399-213b-1bb448a20a56.htm" />
+        <HelpTOCNode Id="fea0b025-4b1d-43bc-af08-9ff866359b8d" Title="Remove Method " Url="html/3ce0c91d-8046-f6a4-6aa8-22d9593f178b.htm">
+          <HelpTOCNode Title="Remove Method (String, Object)" Url="html/70211029-2992-1399-546a-e244f535b35a.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="Run Method " Url="html/56e9a004-f55c-1266-68c9-6bff0bbdf0db.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="ExcelTable Properties" Url="html/51bfc669-f416-6488-3461-170dc94513a9.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="9a7d45c8-7f94-4e90-b923-f6926bcbcccc" Title="ExcelTable.ColumnType Class" Url="html/cbf4e451-05ac-8dbe-1456-a1dc306a14b3.htm">
+      <HelpTOCNode Title="ExcelTable.ColumnType Constructor " Url="html/1d2d004f-7e39-b1a3-90be-1c4c21713009.htm" />
+      <HelpTOCNode Id="f7936510-c95a-49c4-a83e-a2566e85ef44" Title="ColumnType Fields" Url="html/2e1126cd-f3f1-b226-1696-834f20084030.htm">
+        <HelpTOCNode Title="Name Field" Url="html/5e680ecc-917f-43b5-f372-cd5d0d6dd3b9.htm" />
+        <HelpTOCNode Title="TypeField Field" Url="html/28c49734-102d-d16c-dc5b-daf9442aedbd.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="ColumnType Methods" Url="html/e648e1c1-f788-235f-3e38-e6cc3bd41b32.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="73298c98-d08f-4d81-a56a-ee5aa5186067" Title="ExcelTable.ObjectExtend Class" Url="html/7c20aade-3650-998c-5c4c-f38f31d9ab32.htm">
+      <HelpTOCNode Title="ExcelTable.ObjectExtend Constructor " Url="html/1a68b28e-f3d3-e809-21c4-7a3d477ac5aa.htm" />
+      <HelpTOCNode Id="d27a597d-3adb-4032-80d1-0c12d0b90bed" Title="ObjectExtend Fields" Url="html/14239501-fa38-2bee-37ad-06f6502602c6.htm">
+        <HelpTOCNode Title="obj Field" Url="html/6dbcc869-193d-cd87-ef33-cbbf589b1e85.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="d7dc16cb-702f-44b5-9408-3d5afca10ccd" Title="ObjectExtend Methods" Url="html/1474cc27-ee6f-c1fd-ccbd-0ada11064d5d.htm">
+        <HelpTOCNode Title="ToString Method " Url="html/edd12479-6b1f-67f5-7649-bac3a370f7f6.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="ebb2a74a-f443-4c8b-b2f4-41159627a7bb" Title="ObjectExtend Type Conversions" Url="html/462ecfb1-3df0-386c-7816-f81040d0b94f.htm">
+        <HelpTOCNode Id="be90cb35-eb59-42f6-a787-94bc2d0f02df" Title="Implicit Conversion Operators" Url="html/8372b330-7b4d-d280-02cc-7db09a533bb8.htm">
+          <HelpTOCNode Title="Implicit Conversion (Int32 to ExcelTableExcelTable.ObjectExtend)" Url="html/adbdf3ca-8303-927f-dc3a-963a466ce1b5.htm" />
+          <HelpTOCNode Title="Implicit Conversion (Single to ExcelTableExcelTable.ObjectExtend)" Url="html/4f3d65c2-be16-3657-4d6f-d68386676338.htm" />
+          <HelpTOCNode Title="Implicit Conversion (String to ExcelTableExcelTable.ObjectExtend)" Url="html/389cc3dd-4c95-2665-c1f1-994b7945c240.htm" />
+          <HelpTOCNode Title="Implicit Conversion (ExcelTable.ObjectExtend to Single)" Url="html/cffa8278-7852-92ee-6f8d-af0d9b2c66c2.htm" />
+          <HelpTOCNode Title="Implicit Conversion (ExcelTable.ObjectExtend to Int32)" Url="html/878aed1d-03f2-a01a-4beb-c3eb6e7e485a.htm" />
+          <HelpTOCNode Title="Implicit Conversion (ExcelTable.ObjectExtend to String)" Url="html/60dc5f1b-9aee-136e-ea69-d1c7f28b5228.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="54fb6839-7fb0-4114-938f-2b0bdaa84dc1" Title="ObjectExtend Properties" Url="html/00c2f028-cc37-a25a-bda0-b3ee5c09d9cc.htm">
+        <HelpTOCNode Title="f Property " Url="html/1d6bbafb-c63d-976d-c67c-2859aa6ce667.htm" />
+        <HelpTOCNode Title="i Property " Url="html/0e5777d8-ff71-7645-3e16-12f87bc6c84c.htm" />
+        <HelpTOCNode Title="s Property " Url="html/df520c03-f0c9-33e5-cce7-3415a75d45c3.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="0f1fb0e2-19b2-411d-9011-9a296140eb4b" Title="ExcelTable.UniversalObject Class" Url="html/a1082dc7-75c5-0d65-c747-c290345d19b0.htm">
+      <HelpTOCNode Title="ExcelTable.UniversalObject Constructor " Url="html/39031bba-41e5-8636-cd7e-ed2a09a8a51c.htm" />
+      <HelpTOCNode Id="e890d866-cc7d-4b84-a102-ab2a593ebed6" Title="UniversalObject Fields" Url="html/1fec2148-0ed5-0e68-c555-6beae956b114.htm">
+        <HelpTOCNode Title="Properties Field" Url="html/9125191a-4be2-6d4e-0870-588329d73000.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="a580a555-1c55-41a4-ad4c-58d614d8b9e0" Title="UniversalObject Methods" Url="html/dd7449bb-be61-c12e-3391-d62bb432b0b4.htm">
+        <HelpTOCNode Title="SetTable Method " Url="html/b4255201-a4bd-91c6-f6d1-987b977578fd.htm" />
+        <HelpTOCNode Title="ToString Method " Url="html/8ea3d425-aec3-a2ec-199c-d2eb8f9035c5.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="6cda4049-4ce9-4698-8173-ccdc238e6464" Title="UniversalObject Properties" Url="html/f7c02817-b7e9-f825-ceaf-6c9f6508b127.htm">
+        <HelpTOCNode Title="Item Property " Url="html/0c7ecbf3-8388-6102-9fd2-a7b67e23130c.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+</HelpTOC>

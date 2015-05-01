@@ -1,0 +1,147 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ExcelLib</name>
+    </assembly>
+    <members>
+        <member name="T:ExcelLib.Column">
+            <summary>
+                Представляет собой колонку в таблице
+            </summary>
+        </member>
+        <member name="F:ExcelLib.Column.Name">
+            <summary>
+                Имя колонки
+            </summary>
+        </member>
+        <member name="F:ExcelLib.Column.TypeField">
+            <summary>
+                Тип данных хранящийся в колонке
+            </summary>
+        </member>
+        <member name="M:ExcelLib.Column.#ctor(System.String,System.Type)">
+            <summary>
+                Создает новую колонку в таблице
+            </summary>
+            <param name="name">Имя колонки</param>
+            <param name="type">Тип данных хранящийся в колонке</param>
+        </member>
+        <member name="T:ExcelLib.ExcelTable">
+            <summary>
+            </summary>
+        </member>
+        <member name="F:ExcelLib.ExcelTable.Columns">
+            <summary>
+                Список колонок таблицы
+            </summary>
+        </member>
+        <member name="F:ExcelLib.ExcelTable.FilePath">
+            <summary>
+                Адрес файла Excel с которым работает библиотека
+            </summary>
+        </member>
+        <member name="F:ExcelLib.ExcelTable.Range">
+            <summary>
+                Диапазон ячеек в формате "A1:B2"
+            </summary>
+        </member>
+        <member name="M:ExcelLib.ExcelTable.#ctor(System.String,System.String,System.Type[])">
+            <summary>
+                Конструирует новый объект для работы с таблицой Excel
+            </summary>
+            <param name="filePath">Имя файла для обработки</param>
+            <param name="range">Диапазон ячеек в формате "A1:B2"</param>
+            <param name="types">Вручную указанные типы для колонок. Позволяет увеличить производительность</param>
+        </member>
+        <member name="M:ExcelLib.ExcelTable.Push">
+            <summary>
+                Отправляет все изменения в файл Excel
+            </summary>
+        </member>
+        <member name="M:ExcelLib.ExcelTable.Add(System.Object[])">
+            <summary>
+                Добавляет новую запись в таблицу
+            </summary>
+            <param name="args">Список аргументов</param>
+        </member>
+        <member name="M:ExcelLib.ExcelTable.Remove(System.String,System.Object)">
+            <summary>
+            </summary>
+            <param name="field"></param>
+            <param name="value"></param>
+        </member>
+        <member name="M:ExcelLib.ExcelTable.Run(System.String,System.String,System.Type[])">
+            <summary>
+                Запускает процесс сериализации
+            </summary>
+            <param name="file">Адрес файла</param>
+            <param name="range">Диапазон клеток</param>
+            <returns>Возвращаем отпарсенную таблицу</returns>
+        </member>
+        <member name="M:ExcelLib.ExcelTable.StartExcel">
+            <summary>
+                Стартует Excel и заносит в HashTable Id процесса для его дальнейшего убийства
+            </summary>
+        </member>
+        <member name="M:ExcelLib.ExcelTable.KillExcel">
+            <summary>
+                Уничтожает процесс екселя с котором мы работали
+            </summary>
+        </member>
+        <member name="M:ExcelLib.ExcelTable.LetterToNumber(System.Char[])">
+            <summary>
+                Конвертирует буквенный индекс в числовой. Пример AB => 28
+            </summary>
+            <param name="charLetter">Буквенный индекс</param>
+            <returns>Числовой индекс</returns>
+        </member>
+        <member name="T:ExcelLib.Field">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:ExcelLib.Field.f">
+            <summary>
+                Возвращает представление поля в виде типа float
+            </summary>
+            <exception cref="T:System.Exception"></exception>
+        </member>
+        <member name="P:ExcelLib.Field.i">
+            <summary>
+                Возвращает целочисленное представление поля
+            </summary>
+            <exception cref="T:System.Exception"></exception>
+        </member>
+        <member name="P:ExcelLib.Field.s">
+            <summary>
+                Возвращает строковое представление поля
+            </summary>
+        </member>
+        <member name="T:ExcelLib.Record">
+            <summary>
+                Представляет собой универсальный объект который может хранить любое число любых полей
+            </summary>
+        </member>
+        <member name="F:ExcelLib.Record.Properties">
+            <summary>
+                Список полей объекта
+            </summary>
+        </member>
+        <member name="F:ExcelLib.Record._pinToExcelTable">
+            <summary>
+                Таблица к которой принадлежит запись
+            </summary>
+        </member>
+        <member name="M:ExcelLib.Record.#ctor(System.Collections.Generic.IEnumerable{System.Object})">
+            <summary>
+            
+            </summary>
+            <param name="properties"></param>
+        </member>
+        <member name="P:ExcelLib.Record.Item(System.String)">
+            <summary>
+            </summary>
+            <param name="name"></param>
+        </member>
+    </members>
+</doc>

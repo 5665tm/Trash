@@ -1,0 +1,15 @@
+c:\users\караваеввю\documents\visual studio 2015\Projects\ExcelLib\ExcelLib\bin\Debug\ExcelLib.exe.config
+C:\Users\КараваевВЮ\Desktop\ExcelLib\ExcelLib\bin\Debug\ExcelLib.dll.config
+C:\Users\КараваевВЮ\Desktop\ExcelLib\ExcelLib\bin\Debug\ExcelLib.dll
+C:\Users\КараваевВЮ\Desktop\ExcelLib\ExcelLib\bin\Debug\ExcelLib.pdb
+C:\Users\КараваевВЮ\Desktop\ExcelLib\ExcelLib\obj\Debug\ExcelLib.dll
+C:\Users\КараваевВЮ\Desktop\ExcelLib\ExcelLib\obj\Debug\ExcelLib.pdb
+C:\Users\КараваевВЮ\Desktop\ExcelLib\ExcelLib\obj\Debug\ExcelLib.csprojResolveAssemblyReference.cache
+C:\Users\КараваевВЮ\Desktop\ExcelLib\ExcelLib\bin\Debug\ExcelLib.XML
+D:\Desktop\TransportTask\ExcelLib\ExcelLib\obj\Debug\ExcelLib.dll
+D:\Desktop\TransportTask\ExcelLib\ExcelLib\obj\Debug\ExcelLib.pdb
+D:\Desktop\TransportTask\ExcelLib\ExcelLib\bin\Debug\ExcelLib.dll.config
+D:\Desktop\TransportTask\ExcelLib\ExcelLib\bin\Debug\ExcelLib.XML
+D:\Desktop\TransportTask\ExcelLib\ExcelLib\bin\Debug\ExcelLib.dll
+D:\Desktop\TransportTask\ExcelLib\ExcelLib\bin\Debug\ExcelLib.pdb
+D:\Desktop\TransportTask\ExcelLib\ExcelLib\obj\Debug\ExcelLib.csprojResolveAssemblyReference.cache
